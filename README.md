@@ -1,5 +1,5 @@
 # What-is-that-State
-A python-based interactive game to test knowledge of all 50 states in the US. Built during a online python course.
+A python-based interactive game to test knowledge of all 50 states in the US.
 
 ## Features
 Interactive Gameplay: Players type in the names of U.S. states to fill in the map.
